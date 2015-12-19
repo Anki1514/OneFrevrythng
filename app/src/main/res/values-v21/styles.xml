@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTheme" parent="Base.MyTheme">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="MyTheme.Detail" parent="MyTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

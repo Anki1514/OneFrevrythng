@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">One4EveryThing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagehide">Image &amp; Video Hider</string>
+    <string name="appbackup">App Backup &amp; Restore</string>
+    <string name="applock">App Lock</string>
+    <string name="mobileclean">Mobile Cleaner</string>
+    <string name="message">Message Backup</string>
+    <string name="contact">Contact Backup</string>
+
+    <string-array name="question_arrays">
+        <item>What is your first phone number?</item>
+        <item>Your childhood nickname? </item>
+        <item>Name of your childhood friend? </item>
+        <item>City or town was your first job?</item>
+        <item>What is your first teacher name?</item>
+    </string-array>
+</resources>
